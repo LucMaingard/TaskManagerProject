@@ -1,0 +1,6 @@
+admin, adm1n
+luc, 1234
+mambo, no5
+alex, carter
+mojo, jojo
+scooby, doo
